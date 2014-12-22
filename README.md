@@ -1,4 +1,4 @@
 complete-ios-developer-course
 =============================
 
-Complete IOS Developer Course
+Workspace for apps developed during the *Complete iOS8 and Swift Course*
